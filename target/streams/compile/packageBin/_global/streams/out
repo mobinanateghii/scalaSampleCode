@@ -1,0 +1,9 @@
+[debug] Packaging D:\sample project\ScalaSampleCode\target\scala-2.13\scalasamplecode_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	S1
+[debug] 	  D:\sample project\ScalaSampleCode\target\scala-2.13\classes\S1
+[debug] 	S1\ChatBot1$.class
+[debug] 	  D:\sample project\ScalaSampleCode\target\scala-2.13\classes\S1\ChatBot1$.class
+[debug] 	S1\ChatBot1.class
+[debug] 	  D:\sample project\ScalaSampleCode\target\scala-2.13\classes\S1\ChatBot1.class
+[debug] Done packaging.

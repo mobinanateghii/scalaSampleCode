@@ -1,0 +1,23 @@
+[debug] > Exec(test, None, None)
+[debug] Evaluating tasks: Test / test
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to D:\sample project\ScalaSampleCode\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 2 Scala sources to D:\sample project\ScalaSampleCode\target\scala-2.13\test-classes ...
+[info] done compiling
+[info] TestChatBot1:
+[info] - step of chatBot should start by interesting
+[info] TestTrue:
+[info] - test always pass...
+[info] - test always fail... *** FAILED ***
+[info]   org.scalatest.exceptions.TestFailedException was thrown. (TestTrue.scala:14)
+[info] Run completed in 186 milliseconds.
+[info] Total number of tests run: 3
+[info] Suites: completed 2, aborted 0
+[info] Tests: succeeded 2, failed 1, canceled 0, ignored 0, pending 0
+[info] *** 1 TEST FAILED ***
+[error] Failed tests:
+[error] 	TestTrue
+[error] (Test / test) sbt.TestsFailedException: Tests unsuccessful
+[error] Total time: 4 s, completed Jul 8, 2022 9:13:22 PM
+[debug] > Exec(idea-shell, None, None)

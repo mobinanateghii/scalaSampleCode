@@ -1,0 +1,18 @@
+[debug] Running TaskDef(TestTrue, org.scalatest.tools.Framework$$anon$1@300d4ac9, false, [SuiteSelector])
+[debug] Running TaskDef(TestChatBot1, org.scalatest.tools.Framework$$anon$1@300d4ac9, false, [SuiteSelector])
+[info] TestChatBot1:
+[info] - step of chatBot should start by interesting
+[info] TestTrue:
+[info] - test always pass...
+[info] - test always fail... *** FAILED ***
+[info]   org.scalatest.exceptions.TestFailedException was thrown. (TestTrue.scala:14)
+[info] Run completed in 186 milliseconds.
+[info] Total number of tests run: 3
+[info] Suites: completed 2, aborted 0
+[info] Tests: succeeded 2, failed 1, canceled 0, ignored 0, pending 0
+[info] *** 1 TEST FAILED ***
+[debug] Passed tests:
+[debug] 	TestChatBot1
+[error] Failed tests:
+[error] 	TestTrue
+[error] (Test / test) sbt.TestsFailedException: Tests unsuccessful
